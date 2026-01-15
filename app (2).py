@@ -4,7 +4,7 @@ import streamlit as st
 # PAGE CONFIG
 # -------------------------------
 st.set_page_config(
-    page_title="IMDB Movie Intelligence App",
+    page_title="IMDB Movie SMART App",
     layout="wide"
 )
 
