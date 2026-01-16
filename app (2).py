@@ -4,9 +4,11 @@ import streamlit as st
 # PAGE CONFIG
 # -------------------------------
 st.set_page_config(
-    page_title="IMDB Movie SMART App",
-    layout="wide"
+    page_title="IMDB Movie Predictor",
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
+
 
 # -------------------------------
 # CUSTOM CSS (DARK MODE SAFE)
